@@ -1,12 +1,9 @@
 
 
- c = 6*5
+c = 6*5
 
 
 print(c)
-
-
-epa
 
 def multipli(a,b):
     a   = a*b
